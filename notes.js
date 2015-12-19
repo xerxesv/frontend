@@ -1,3 +1,12 @@
+// grid and column layouts how they are made
+// relative vs absolute positioning exactly??
+
+// what is flexbox
+
+// what is transforms
+
+// css and javascript require references to unicode numbers (unicode is a system for assigning numbers to characters; utf-8 is a type of encoding that can represent all unicode characters) to be hexadecimal  &#960 === \03C0 backslash is necessary in css
+
 // takes an array of values
 // when the user starts typing something in, 
   // if the input is not empty, takes in the current input
